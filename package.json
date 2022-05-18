@@ -1,0 +1,33 @@
+{
+  "name": "react-form-supervalidator",
+  "version": "1.0.0",
+  "description": "Fully custom form validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslanahmed777/react-form-supervalidator.git"
+  },
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "keywords": [
+    "react-form-validation",
+    "reactjs",
+    "validation",
+    "form",
+    "react",
+    "form-validation",
+    "forms"
+  ],
+  "author": "Arslan Ahmed Shaad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arslanahmed777/react-form-supervalidator/issues"
+  },
+  "homepage": "https://github.com/arslanahmed777/react-form-supervalidator#readme"
+}
